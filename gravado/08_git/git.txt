@@ -15,3 +15,12 @@ git commit -m 'Subindo tudo, bicho'
 
 # Histórico
 git log
+
+# Branchs existentes (* marca em qual está atualmente)
+git branch
+
+# Muda de branch / cria (se não existir) nova branch baseada na que está no momento
+git checkout -b nova_branch_um
+
+# Faz o merge da branch especificada na branch atual (Como um left join)
+git merge nova_branch_um -m 'Mergenado, bicho'
