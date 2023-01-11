@@ -1,0 +1,15 @@
+{
+  "tests/test_api_3_1.py::teste_get_endpoint[BTC-date2-https://ww.mercadobitcoin.net/api/BTC/day-summary/2022/8/1]": true,
+  "tests/test_api_3_1.py::TestTradesApi::teste_get_endpoint[BTC-date_from0-date_to0-https://www.mercadobitcoin.net/api/BTC/day-summary/2021/4/1]": true,
+  "tests/test_api_3_1.py::TestTradesApi::teste_get_endpoint[ETH-date_from1-date_to1-https://www.mercadobitcoin.net/api/ETH/day-summary/2021/9/7]": true,
+  "tests/test_api_3_1.py::TestTradesApi::teste_get_endpoint[BTC-date_from2-date_to2-https://www.mercadobitcoin.net/api/BTC/day-summary/2022/8/1]": true,
+  "tests/test_api_3_1.py::TestTradesApi::test_get_unix_epoch[date0-1546300800]": true,
+  "tests/test_api_3_1.py::TestTradesApi::test_get_unix_epoch[date0-0]": true,
+  "tests/test_api_3_1.py::TestTradesApi::test_get_unix_epoch[date1-1546308000]": true,
+  "tests/test_api_3_1.py::TestTradesApi::test_get_unix_epoch[date2-1546308000]": true,
+  "tests/test_api_3_1.py::TestTradesApi::teste_get_endpoint[BTC-date_from0-date_to0-https://www.mercadobitcoin.net/api/BTC/trades/2021/4/1]": true,
+  "tests/test_api_3_1.py::TestTradesApi::test_get_unix_epoch[date1-925527600]": true,
+  "tests/test_api_3_1.py::TestTradesApi::teste_get_endpoint[BTC-date_from0-date_to0-hdttps://www.mercadobitcoin.net/api/BTC/trades/1543629600/1546308000]": true,
+  "tests/test_api_3_1.py::TestTradesApi::teste_get_endpoint[BTC-date_from3-date_to3-https://www.mercadobitcoin.net/api/BTC/trades/1543629600]": true,
+  "tests/test_api_3_1.py::TestTradesApi::test_get_endpoint[TEST-date_from0-date_to0-https://www.mercadobitcoin.net/api/BTC/trades/1543629600/1546308000]": true
+}

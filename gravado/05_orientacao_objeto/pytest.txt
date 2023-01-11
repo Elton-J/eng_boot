@@ -1,0 +1,5 @@
+# Altera pasta
+cd ./gravado/05_orientacao_objeto/
+
+# Busca por aruivos / testes no formato test_*.py ou _test.py
+python -m pytest
