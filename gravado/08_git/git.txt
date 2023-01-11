@@ -1,0 +1,17 @@
+# Ativa as cores
+git config --global color.ui true 
+
+# Criar read me (Melhor fazer via Vscode mesmo)
+vim read.md
+
+# Adicionar os arquivos ao staged (04_sql/db dando pau)
+git add .
+
+# Há arquivos a serem adicionados ao stafe? Há arquivos no stage? Dá um "status".  
+git status
+
+# Manda pro repositório
+git commit -m 'Subindo tudo, bicho'
+
+# Histórico
+git log
